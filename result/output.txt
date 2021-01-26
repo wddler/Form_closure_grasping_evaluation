@@ -1,0 +1,17 @@
+This is the result of calculating form closure
+
+Contacts in 'open.csv' are: 
+('contact #', 1, 'x:', 4.0, 'y:', 4.0, 'normal:', 1.5707963267948966)
+('contact #', 2, 'x:', 5.0, 'y:', 5.0, 'normal:', 1.5707963267948966)
+('contact #', 4, 'x:', 6.0, 'y:', 6.0, 'normal:', 3.141592653589793)
+('contact #', 8, 'x:', 1.0, 'y:', 1.0, 'normal:', 5.497787143782138)
+The body with contacts in "open.csv" is NOT IN form closure.
+
+Contacts in 'closed.csv' are: 
+('contact #', 1, 'x:', 0.9, 'y:', 0.9, 'normal:', 1.5707963267948966)
+('contact #', 2, 'x:', 5.0, 'y:', 5.0, 'normal:', 1.5707963267948966)
+('contact #', 4, 'x:', 6.0, 'y:', 6.0, 'normal:', 3.141592653589793)
+('contact #', 8, 'x:', 1.0, 'y:', 1.0, 'normal:', 5.497787143782138)
+The body with contacts in 'closed.csv' IS IN form closure. The solution - 'k' vector is: 
+[39.99999565  1.00000002 40.99999554 57.98330576]
+See the pictures for reference.
